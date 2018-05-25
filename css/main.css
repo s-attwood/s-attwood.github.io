@@ -1,0 +1,90 @@
+h1 {color:green;
+font-weight:100
+}
+
+body {width: 60%;
+margin-left: auto;
+margin-right: auto;
+}
+
+h3{
+font-family: Helvetica, Geneva, Arial,
+SunSans-Regular, sans-serif;
+color: #26466d;
+text-align: center;
+font-weight: 100;
+padding: 10px
+}
+
+h4{
+font-family: Helvetica, Geneva, Arial,
+SunSans-Regular, sans-serif;
+color: #26466d;
+text-align: right;
+font-weight: 100;
+padding: 2px
+}
+
+/* Style the contact tablep classes  */
+
+p.nav {
+font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif;
+          color: #26466d;
+          text-align: center;
+padding: 10px;
+
+}
+
+
+p.copyright {
+font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif;
+          font-size: small;
+          text-align: left;
+padding: 0px;
+
+}
+
+/* Style the navigation link  */
+
+a.nav{
+	font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif;
+          color: #26466d;
+          text-align: center;
+          text-decoration: none;
+          font-weight: 100;
+       }
+       
+a:hover {colour: orange;}
+
+/* Style the contact table  */
+
+table.center {
+margin-left:auto;
+margin-right:auto;
+}
+
+/* Add border to table  */
+
+td {padding: 5px;
+border-right: 1px dotted black;
+border-bottom: 1px dotted black;
+}
+
+/* Style the lists */
+ol{
+padding: 50 px;
+}
+
+ul{
+padding: 50px;
+}
+
+/* Text for list items */
+
+li{
+	font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif;
+}
